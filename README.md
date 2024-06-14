@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KanishkaGautam
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... development
+- 🌱 I’m currently learning data analyst
 - 📫 How to reach me ...(kanishka022005@gmail.com)
 
 <!---
